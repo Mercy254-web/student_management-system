@@ -26,7 +26,7 @@ The Student Management System is a web-based application developed to manage stu
 4. Open phpMyAdmin and create a database named student_management.
 5. Import the student_management.sql file.
 6. Open your browser and visit:
-   http://localhost/student_management-system/
+   http://localhost/student_management/
 
 ## Files
 - index.php
