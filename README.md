@@ -1,7 +1,8 @@
 # student_management-system
 
 ## Project Description
-The Student Management System is a web-based application developed to manage student records efficiently. The system allows users to add, view, update, and delete student information through a simple and user-friendly interface.
+The Student Management System is a web-based application developed to manage student information efficiently. The system allows students to register accounts, login and view their personal profiles.
+Administrators can manage student records
 
 ## Technologies Used
 - PHP
@@ -12,12 +13,10 @@ The Student Management System is a web-based application developed to manage stu
 - XAMPP
 
 ## Features
-- User Login
-- Add Student
-- View Students
-- Edit Student Details
-- Delete Student Records
-- MySQL Database Integration
+- Student self-registration
+- Student login and logout
+- Student dashboard
+- Administrator login
 
 ## Installation
 1. Install XAMPP.
@@ -40,6 +39,9 @@ The Student Management System is a web-based application developed to manage stu
 - navbar.php
 - logout.php
 - student_management.sql
+- student_dashboard.php
+- student_login.php
+- student_logout.php
 
 ## Author
 Mercy Chepkorir
