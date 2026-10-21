@@ -26,6 +26,7 @@ Administrators can manage student records
 5. Import the student_management.sql file.
 6. Open your browser and visit:
    http://localhost/student_management/login.php
+   http://localhost/student_management/student_login.php
 
 ## Files
 - index.php
